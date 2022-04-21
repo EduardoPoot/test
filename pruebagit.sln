@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebagit", "pruebagit\pruebagit.csproj", "{6FD103FB-6DD3-42D1-82B1-D10658FDC4E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{9F8BBFE6-E050-46D7-8C12-DE1D922D454E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FD103FB-6DD3-42D1-82B1-D10658FDC4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD103FB-6DD3-42D1-82B1-D10658FDC4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD103FB-6DD3-42D1-82B1-D10658FDC4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD103FB-6DD3-42D1-82B1-D10658FDC4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211478F0-F52C-4085-9887-FC29C856AC3D}
+	EndGlobalSection
+EndGlobal
